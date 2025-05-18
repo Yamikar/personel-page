@@ -160,7 +160,6 @@ export default function Personal() {
               <div className="px-1">
                 <a
                   className="font-base group relative inline-block font-[450] text-zinc-900 dark:text-zinc-50"
-                  href={project.link}
                   target="_blank"
                 >
                   {project.name}
@@ -184,7 +183,6 @@ export default function Personal() {
           {WORK_EXPERIENCE.map((job) => (
             <a
               className="relative overflow-hidden rounded-2xl bg-zinc-300/30 p-[1px] dark:bg-zinc-600/30"
-              href={job.link}
               target="_blank"
               rel="noopener noreferrer"
               key={job.id}
