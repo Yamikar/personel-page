@@ -82,17 +82,15 @@ export const BLOG_POSTS: BlogPost[] = [
     uid: 'blog-1',
   },
   {
-    title: 'Why I left my job to start my own company',
-    description:
-      'A deep dive into my decision to leave my job and start my own company',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
+    title: 'How to Make Your Website Load in Under 1 Second',
+    description: 'Start reading now',
+    link: 'https://medium.com/full-stack-forge/how-to-make-your-website-load-in-under-1-second-e748100bba01',
     uid: 'blog-2',
   },
   {
-    title: 'What I learned from my first year of freelancing',
-    description:
-      'A look back at my first year of freelancing and what I learned',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
+    title: 'Top 8 React Libraries Tools You Need to Know in 2025',
+    description: 'Start reading now',
+    link: 'https://medium.com/@letscodefuture/top-8-react-libraries-tools-you-need-to-know-in-2025-2afdb6c33251',
     uid: 'blog-3',
   },
 ]

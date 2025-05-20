@@ -159,6 +159,7 @@ export default function Personal() {
               </div>
               <div className="px-1">
                 <a
+                  href="https://github.com/Yamikar"
                   className="font-base group relative inline-block font-[450] text-zinc-900 dark:text-zinc-50"
                   target="_blank"
                 >
