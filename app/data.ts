@@ -29,18 +29,18 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'flood relief application',
+    name: 'Darklyn UI',
     description:
-      'This project is the front end of an application designed to help organize and distribute supplies, as well as coordinate volunteers during the floods in Rio Grande do Sul.',
-    link: 'https://github.com/Yamikar/frontend',
+      'The dark theme component focused open source tailwind.css library is now available in mvp',
+    link: 'https://darklynui.netlify.app/',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
     id: 'project1',
   },
   {
-    name: 'Dream Dictionary',
-    description: 'Web application for finding word-based dream meanings',
-    link: 'https://motion-primitives.com/',
+    name: 'Figma-Design',
+    description: 'The github repo where I store my figma designs',
+    link: 'https://github.com/Yamikar/Figma-Design',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
     id: 'project2',
