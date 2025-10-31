@@ -137,11 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Frontend Developer with focus on ReactJS library. worked on several
-            personal projects usingJavascript,
-            ReactJS,NextJS,Node.JS,ExpressJS,TailwindCSS,SCSS, and other
-            technologies with Accessibility, Responsive Design and Mobile First
-            Approaches being my main focus.
+            Frontend Developer focused on building modern, high-performance, and accessible web apps. Experienced with React.js, Next.js, and modern JavaScript. Passionate about crafting sleek UIs with TailwindCSS, SCSS, and mobile-first design principles.
           </p>
         </div>
       </motion.section>
